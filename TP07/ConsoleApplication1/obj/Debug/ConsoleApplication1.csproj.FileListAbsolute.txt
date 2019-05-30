@@ -1,0 +1,4 @@
+C:\Users\Alumno\Desktop\TP06\Solution3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Alumno\Desktop\TP06\Solution3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\TP07\Solution3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Alumno\Desktop\TP07\Solution3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
